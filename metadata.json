@@ -1,0 +1,5 @@
+{
+  "name": "ASR Benchmark Hub",
+  "description": "A blog application to post ASR (Automatic Speech Recognition) benchmarking reports and visualize performance trends over time.",
+  "requestFramePermissions": []
+}
